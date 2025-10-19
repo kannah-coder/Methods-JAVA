@@ -35,6 +35,20 @@ This class defines multiple **overloaded `add()` methods**, each handling differ
  ┣ 📜 README.md
  ┗ 📜 .gitignore
  ┣ BasicsMethods.java
+ ┣ MethodsShowcase.java
+ 
 This file helps you about the what is function which to common to all languages
+
+MethodsShowcase.java is a Java program demonstrating a variety of methods in a single file. It covers:
+
+Instance methods
+Method overloading
+Recursion
+Methods with arrays
+Varargs (variable number of arguments)
+Private methods
+Methods calling other methods
+
+This program is designed as a learning reference for Java beginners to understand different ways to write and use methods.
  
 
