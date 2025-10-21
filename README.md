@@ -50,5 +50,10 @@ Private methods
 Methods calling other methods
 
 This program is designed as a learning reference for Java beginners to understand different ways to write and use methods.
+
+
+Using static avoids creating objects
+For small programs or utility methods, making them static is easier.
+You can call them directly inside main():
  
 
